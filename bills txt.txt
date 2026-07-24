@@ -1,0 +1,103 @@
+bill_id,date,vendor,project,category_code,currency,amount,description
+B-1001,2026-05-03,Helios Energy,ALFA-01,FUEL,EUR,4200.0,Fuel May 2026
+B-1002,2026-05-05,Nordic Provisions,ALFA-01,PROV,EUR,1800.0,Provisions May 2026
+B-1003,2026-05-07,TechServ Ltd,ALFA-01,REP,EUR,2600.0,Repairs May 2026
+B-1004,2026-05-09,GlobalTrip,ALFA-01,TRV1,EUR,1500.0,Travel May 2026
+B-1005,2026-05-11,Portline Agency,ALFA-01,AGY,USD,2200.0,Agency fees May 2026
+B-1006,2026-05-13,SafeSure Insurance,ALFA-01,INS,EUR,3100.0,Insurance May 2026
+B-1007,2026-05-15,ConnectCom,ALFA-01,COMM,EUR,420.0,Communication May 2026
+B-1008,2026-05-17,Harbour Services,ALFA-01,PORT,USD,1900.0,Port charges May 2026
+B-1009,2026-05-19,OfficePlus,ALFA-01,OFF,EUR,650.0,Office May 2026
+B-1010,2026-05-06,Nordic Provisions,BETA-02,FUEL,EUR,4494.0,Fuel May 2026
+B-1011,2026-05-08,TechServ Ltd,BETA-02,PROV,EUR,1926.0,Provisions May 2026
+B-1012,2026-05-10,GlobalTrip,BETA-02,REP,EUR,2782.0,Repairs May 2026
+B-1013,2026-05-12,Portline Agency,BETA-02,TRV1,EUR,1605.0,Travel May 2026
+B-1014,2026-05-14,SafeSure Insurance,BETA-02,AGY,USD,2354.0,Agency fees May 2026
+B-1015,2026-05-16,ConnectCom,BETA-02,INS,EUR,3317.0,Insurance May 2026
+B-1016,2026-05-18,Harbour Services,BETA-02,COMM,EUR,449.4,Communication May 2026
+B-1017,2026-05-20,OfficePlus,BETA-02,PORT,USD,2033.0,Port charges May 2026
+B-1018,2026-05-22,Meridian Repairs,BETA-02,OFF,EUR,695.5,Office May 2026
+B-1019,2026-05-09,TechServ Ltd,GAMMA-03,FUEL,EUR,4788.0,Fuel May 2026
+B-1020,2026-05-11,GlobalTrip,GAMMA-03,PROV,EUR,2052.0,Provisions May 2026
+B-1021,2026-05-13,Portline Agency,GAMMA-03,REP,EUR,2964.0,Repairs May 2026
+B-1022,2026-05-15,SafeSure Insurance,GAMMA-03,TRV1,EUR,1710.0,Travel May 2026
+B-1023,2026-05-17,ConnectCom,GAMMA-03,AGY,USD,2508.0,Agency fees May 2026
+B-1024,2026-05-19,Harbour Services,GAMMA-03,INS,EUR,3534.0,Insurance May 2026
+B-1025,2026-05-21,OfficePlus,GAMMA-03,COMM,EUR,478.8,Communication May 2026
+B-1026,2026-05-23,Meridian Repairs,GAMMA-03,PORT,USD,2166.0,Port charges May 2026
+B-1027,2026-05-25,Helios Energy,GAMMA-03,OFF,EUR,741.0,Office May 2026
+B-1028,2026-05-12,GlobalTrip,DELTA-04,FUEL,EUR,5082.0,Fuel May 2026
+B-1029,2026-05-14,Portline Agency,DELTA-04,PROV,EUR,2178.0,Provisions May 2026
+B-1030,2026-05-16,SafeSure Insurance,DELTA-04,REP,EUR,3146.0,Repairs May 2026
+B-1031,2026-05-18,ConnectCom,DELTA-04,TRV1,EUR,1815.0,Travel May 2026
+B-1032,2026-05-20,Harbour Services,DELTA-04,AGY,USD,2662.0,Agency fees May 2026
+B-1033,2026-05-22,OfficePlus,DELTA-04,INS,EUR,3751.0,Insurance May 2026
+B-1034,2026-05-24,Meridian Repairs,DELTA-04,COMM,EUR,508.2,Communication May 2026
+B-1035,2026-05-26,Helios Energy,DELTA-04,PORT,USD,2299.0,Port charges May 2026
+B-1036,2026-05-04,Nordic Provisions,DELTA-04,OFF,EUR,786.5,Office May 2026
+B-1037,2026-05-15,Portline Agency,OMEGA-05,FUEL,EUR,5376.0,Fuel May 2026
+B-1038,2026-05-17,SafeSure Insurance,OMEGA-05,PROV,EUR,2304.0,Provisions May 2026
+B-1039,2026-05-19,ConnectCom,OMEGA-05,REP,EUR,3328.0,Repairs May 2026
+B-1040,2026-05-21,Harbour Services,OMEGA-05,TRV1,EUR,1920.0,Travel May 2026
+B-1041,2026-05-23,OfficePlus,OMEGA-05,AGY,USD,2816.0,Agency fees May 2026
+B-1042,2026-05-25,Meridian Repairs,OMEGA-05,INS,EUR,3968.0,Insurance May 2026
+B-1043,2026-05-03,Helios Energy,OMEGA-05,COMM,EUR,537.6,Communication May 2026
+B-1044,2026-05-05,Nordic Provisions,OMEGA-05,PORT,USD,2432.0,Port charges May 2026
+B-1045,2026-05-07,TechServ Ltd,OMEGA-05,OFF,EUR,832.0,Office May 2026
+B-1046,2026-06-03,Helios Energy,ALFA-01,FUEL,EUR,4368.0,Fuel June 2026
+B-1047,2026-06-05,Nordic Provisions,ALFA-01,PROV,EUR,1872.0,Provisions June 2026
+B-1048,2026-06-07,TechServ Ltd,ALFA-01,REP,EUR,2704.0,Repairs June 2026
+B-1049,2026-06-09,GlobalTrip,ALFA-01,TRV1,EUR,1560.0,Travel June 2026
+B-1050,2026-06-11,Portline Agency,ALFA-01,AGY,USD,2288.0,Agency fees June 2026
+B-1051,2026-06-13,SafeSure Insurance,ALFA-01,INS,EUR,3224.0,Insurance June 2026
+B-1052,2026-06-15,ConnectCom,ALFA-01,COMM,EUR,436.8,Communication June 2026
+B-1053,2026-06-17,Harbour Services,ALFA-01,PORT,USD,1976.0,Port charges June 2026
+B-1054,2026-06-19,OfficePlus,ALFA-01,OFF,EUR,676.0,Office June 2026
+B-1055,2026-06-06,Nordic Provisions,BETA-02,FUEL,EUR,4673.76,Fuel June 2026
+B-1056,2026-06-08,TechServ Ltd,BETA-02,PROV,EUR,2003.04,Provisions June 2026
+B-1057,2026-06-10,GlobalTrip,BETA-02,REP,EUR,2893.28,Repairs June 2026
+B-1058,2026-06-12,Portline Agency,BETA-02,TRV1,EUR,1669.2,Travel June 2026
+B-1059,2026-06-14,SafeSure Insurance,BETA-02,AGY,USD,2448.16,Agency fees June 2026
+B-1060,2026-06-16,ConnectCom,BETA-02,INS,EUR,3449.68,Insurance June 2026
+B-1061,2026-06-18,Harbour Services,BETA-02,COMM,EUR,467.38,Communication June 2026
+B-1062,2026-06-20,OfficePlus,BETA-02,PORT,USD,2114.32,Port charges June 2026
+B-1063,2026-06-22,Meridian Repairs,BETA-02,OFF,EUR,723.32,Office June 2026
+B-1064,2026-06-09,TechServ Ltd,GAMMA-03,FUEL,EUR,4979.52,Fuel June 2026
+B-1065,2026-06-11,GlobalTrip,GAMMA-03,PROV,EUR,2134.08,Provisions June 2026
+B-1066,2026-06-13,Portline Agency,GAMMA-03,REP,EUR,12330.24,Repairs June 2026
+B-1067,2026-06-15,SafeSure Insurance,GAMMA-03,TRV1,EUR,1778.4,Travel June 2026
+B-1068,2026-06-17,ConnectCom,GAMMA-03,AGY,USD,2608.32,Agency fees June 2026
+B-1069,2026-06-19,Harbour Services,GAMMA-03,INS,EUR,3675.36,Insurance June 2026
+B-1070,2026-06-21,OfficePlus,GAMMA-03,COMM,EUR,497.95,Communication June 2026
+B-1071,2026-06-23,Meridian Repairs,GAMMA-03,PORT,USD,2252.64,Port charges June 2026
+B-1072,2026-06-25,Helios Energy,GAMMA-03,OFF,EUR,770.64,Office June 2026
+B-1073,2026-06-12,GlobalTrip,DELTA-04,FUEL,EUR,5285.28,Fuel June 2026
+B-1074,2026-06-14,Portline Agency,DELTA-04,PROV,EUR,2265.12,Provisions June 2026
+B-1075,2026-06-16,SafeSure Insurance,DELTA-04,REP,EUR,3271.84,Repairs June 2026
+B-1076,2026-06-18,ConnectCom,DELTA-04,TRV1,EUR,1887.6,Travel June 2026
+B-1077,2026-06-20,Harbour Services,DELTA-04,AGY,USD,2768.48,Agency fees June 2026
+B-1078,2026-06-22,OfficePlus,DELTA-04,INS,EUR,3901.04,Insurance June 2026
+B-1079,2026-06-24,Meridian Repairs,DELTA-04,COMM,EUR,528.53,Communication June 2026
+B-1080,2026-06-26,Helios Energy,DELTA-04,PORT,USD,2390.96,Port charges June 2026
+B-1081,2026-06-04,Nordic Provisions,DELTA-04,OFF,EUR,817.96,Office June 2026
+B-1082,2026-06-15,Portline Agency,OMEGA-05,FUEL,EUR,5591.04,Fuel June 2026
+B-1083,2026-06-17,SafeSure Insurance,OMEGA-05,PROV,EUR,2396.16,Provisions June 2026
+B-1084,2026-06-19,ConnectCom,OMEGA-05,REP,EUR,3461.12,Repairs June 2026
+B-1085,2026-06-21,Harbour Services,OMEGA-05,TRV1,EUR,1996.8,Travel June 2026
+B-1086,2026-06-23,OfficePlus,OMEGA-05,AGY,USD,2928.64,Agency fees June 2026
+B-1087,2026-06-25,Meridian Repairs,OMEGA-05,INS,EUR,4126.72,Insurance June 2026
+B-1088,2026-06-03,Helios Energy,OMEGA-05,COMM,EUR,559.1,Communication June 2026
+B-1089,2026-06-05,Nordic Provisions,OMEGA-05,PORT,USD,2529.28,Port charges June 2026
+B-1090,2026-06-07,TechServ Ltd,OMEGA-05,OFF,EUR,865.28,Office June 2026
+B-1091,2026-06-09,TechServ Ltd,,REP,EUR,780.0,"Spare parts, project not set"
+B-1092,2026-06-11,GlobalTrip,,TRV1,EUR,1120.0,"Tickets, project not set"
+B-1093,2026-06-14,OfficePlus,,OFF,EUR,240.0,"Stationery, project not set"
+B-1094,2026-06-17,ConnectCom,,COMM,EUR,95.0,"SIM cards, project not set"
+B-1095,2026-06-20,Harbour Services,,PORT,USD,540.0,"Berth fee, project not set"
+B-1096,2026-06-23,Nordic Provisions,,PROV,EUR,310.0,"Water supply, project not set"
+B-1097,2026-06-12,Helios Energy,ALFA-01,MSC9,EUR,990.0,Waste disposal
+B-1098,2026-06-19,Helios Energy,BETA-02,MSC9,EUR,640.0,Waste disposal
+B-1099,2026-06-26,Helios Energy,GAMMA-03,MSC9,EUR,415.0,Waste disposal
+B-1100,2026-07-02,SafeSure Insurance,DELTA-04,INS,EUR,3220.0,Insurance July
+B-1101,2026-06-27,Meridian Repairs,OMEGA-05,REP,EUR,-1200.0,Credit note for B-1043
+B-1055,2026-06-06,Nordic Provisions,BETA-02,FUEL,EUR,4673.76,Fuel June 2026
